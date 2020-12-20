@@ -1,0 +1,29 @@
+#content{
+	width: 960px;
+	margin: 0 auto;
+}
+
+#menu{
+	width: 200px;
+	float: right;
+	height: 100%;
+	
+}
+
+.product{
+	border: 10px black solid;
+	
+	
+}
+table{
+	width: 600px;
+}
+
+table, tr, td{
+	font-size: 200px;
+}
+
+body{
+	background-color: red;
+	
+}

@@ -1,0 +1,116 @@
+#content{
+	width: 100%;
+	margin: 0 auto;
+}
+
+#menu{
+	width: 200px;
+	float: left;
+	height: 100%;
+	
+}
+
+#products{
+	
+
+}
+
+#products table,tr, td{
+	border: 10px black solid;
+	width: 60%;
+	font-size: 20px;
+
+}
+
+
+body{
+	
+	background-color:red;
+}
+
+img.logo {
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	
+}
+
+
+
+#top{
+	background-color: white;
+	
+	height: 100%;
+}
+
+ul, ul li {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	
+}
+
+ul {
+	float: left;
+	background-color: #fff;
+	padding: 1px 0 1px 1px;
+	border: 1px solid #000;
+	width: 100%;
+	position: fixed;
+	bottom: 95%;
+}
+li{
+	width: 20%;
+	
+}
+ul li {
+	float: left;
+	
+}
+
+ul a:link, ul a:visited {
+	text-decoration: none;
+	display: block;
+	font-weight: bold;
+	background: #000  repeat-x center;
+	color: #fff;
+	padding: 10px 20px;
+	border-right: 1px solid #fff;
+	border-right: 1px solid #fff;
+}
+
+ul a:hover {
+	background-color: #800;
+	
+}
+
+div#people{
+	height:2000px;
+	background-color: yellow;
+	margin-top:3%;
+}
+
+div.artist{
+	margin: 5px;
+	
+	float: left;
+	width: 180px;
+}
+
+div.artist:hover {
+  border: 1px solid #777;
+}
+
+div.artist img {
+  width: 100%;
+  height: auto;
+}
+
+
+div.desc{
+	overflow:hidden;
+}
+
+
+
